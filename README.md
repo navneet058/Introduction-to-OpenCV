@@ -17,6 +17,11 @@ pip install numpy
 pip install matplotlib
 
 
+run pip install opencv-python (if you need only main modules)
+
+run pip install opencv-contrib-python (if you need both main and contrib modules)
+
+
 
 # Linux / Mac:
 ==================================================================
